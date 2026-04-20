@@ -1,0 +1,5 @@
+{
+  "routeFile": "src/app/router.tsx",
+  "routesDirectory": "src/app",
+  "generatedRouteTree": "src/app/routeTree.gen.ts"
+}
